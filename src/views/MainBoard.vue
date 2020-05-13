@@ -1,20 +1,28 @@
 <template>
   <div class="home">
-    <h1>{{ message }}</h1>
+    <h1>All Posts</h1>
+    <div v-for="post in posts">
+      <h2>{{ post.text }}</h2>
+    </div>
   </div>
 </template>
 
-<style>
-</style>
+<style></style>
 
 <script>
+import axios from "axios";
 export default {
   data: function() {
     return {
-      message: "Welcome to the Main Board! Your daily news source for music & performing arts!"
+      posts: []
     };
   },
-  created: function() {},
+  created: function() {
+    axios.get("/api/users/12").then(response => {
+      console.log(response.data)
+      this.posts = response.data.posts;
+    });
+  },
   methods: {}
 };
 </script>
