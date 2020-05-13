@@ -4,7 +4,8 @@ import Home from "../views/Home.vue"
 import Signup from "../views/Signup.vue";
 import Login from "../views/Login.vue";
 import Logout from "../views/Logout.vue";
-import UsersShow from "../views/UsersShow.vue"
+import UsersShow from "../views/UsersShow.vue";
+import MainBoard from "../views/MainBoard.vue"
 
 Vue.use(VueRouter)
 
@@ -41,6 +42,11 @@ Vue.use(VueRouter)
     path: "/users/:id",
     name: "users show",
     component: UsersShow
+  },
+  {
+    path: "/main_board",
+    name: "main board",
+    component: MainBoard 
   }
 ]
 
