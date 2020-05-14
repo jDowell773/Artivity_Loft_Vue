@@ -1,8 +1,13 @@
 <template>
   <div class="home">
     <h1>All Posts</h1>
+    <hr>
+    <hr>
+    <hr>
     <div v-for="post in posts">
       <h2>{{ post.text }}</h2>
+      <button v-on:click="deletePost(post)  ">Delete Post</button>
+      <hr>
     </div>
   </div>
 </template>
@@ -23,8 +28,18 @@ export default {
       this.posts = response.data.posts;
     });
   },
-  methods: {}
+  methods: {
+    deletePost: function(thePost) {
+      console.log('deleting the post..')
+      axios.delete('/api/posts/' + thePost.id).then(response => {
+        console.log(response.data)
+        var index = this.posts.indexOf(thePost)
+        this.posts.splice(index, 1)
+      })
+    }
+  }
 };
 </script>
+
 
 

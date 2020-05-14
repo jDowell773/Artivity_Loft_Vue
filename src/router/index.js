@@ -5,7 +5,8 @@ import Signup from "../views/Signup.vue";
 import Login from "../views/Login.vue";
 import Logout from "../views/Logout.vue";
 import UsersShow from "../views/UsersShow.vue";
-import MainBoard from "../views/MainBoard.vue"
+import MainBoard from "../views/MainBoard.vue";
+import NewPost from "../views/NewPost.vue"
 
 Vue.use(VueRouter)
 
@@ -47,6 +48,11 @@ Vue.use(VueRouter)
     path: "/main_board",
     name: "main board",
     component: MainBoard 
+  },
+  {
+    path: "/new_post",
+    name: "new post",
+    component: NewPost  
   }
 ]
 

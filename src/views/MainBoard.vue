@@ -1,8 +1,10 @@
 <template>
   <div class="home">
-    <h1>All Posts</h1>
+    <h1>Welcome to the Main Board! Your daily source of music & performing arts related news!</h1>
+    <hr>
     <div v-for="post in posts">
       <h2>{{ post.text }}</h2>
+      <hr>
     </div>
   </div>
 </template>
@@ -14,7 +16,7 @@ import axios from "axios";
 export default {
   data: function() {
     return {
-      posts: []
+      posts: [],
     };
   },
   created: function() {
