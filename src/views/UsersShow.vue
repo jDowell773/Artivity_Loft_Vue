@@ -6,6 +6,7 @@
     <hr>
     <div v-for="post in posts">
       <h2>{{ post.text }}</h2>
+      <!-- <button v-on:click="newPost(post)  ">New Post</button> -->
       <button v-on:click="deletePost(post)  ">Delete Post</button>
       <hr>
     </div>
@@ -36,7 +37,7 @@ export default {
         var index = this.posts.indexOf(thePost)
         this.posts.splice(index, 1)
       })
-    }
+    },
   }
 };
 </script>

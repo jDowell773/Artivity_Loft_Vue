@@ -11,7 +11,7 @@
 export default {
   data: function() {
     return {
-      message: "Welcome Artivity Loft!"
+      message: "Welcome To Artivity Loft!"
     };
   },
   created: function() {},
