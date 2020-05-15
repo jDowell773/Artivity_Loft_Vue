@@ -12,6 +12,9 @@
       <li class="nav-item active">
         <a class="nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
       </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="/home">Home</a>
+      </li> -->
       <li class="nav-item">
         <a class="nav-link" href="/main_board">Main Board</a>
       </li>
@@ -27,8 +30,11 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="/new_post" tabindex="-1" aria-disabled="true">New Post</a>
+        <a class="nav-link" href="/new_post">New Post</a>
       </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link disabled" href="/new_post" tabindex="-1" aria-disabled="true">New Post</a>
+      </li> -->
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -55,13 +61,11 @@
 <!-- Banner -->
 <section id="banner">
   <header>
-    <h2>This is Overflow</h2>
+    <h2>Artivity Loft</h2>
   </header>
-  <p>A brand new site template designed by <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a>.<br />
-  It’s responsive, built on HTML5/CSS3, and entirely free<br />
-  under the <a href="http://html5up.net/license">Creative Commons license</a>.</p>
+  <p>Your daily source of music, theatre, & creative arts news. Artivity Loft is a great way to stay connected with other artists & learn about upcoming events. Created by Jonathan Dowell</p>
   <footer>
-    <a href="#first" class="button style2 scrolly">Act on this message</a>
+    <a href="#header" class="button style2 scrolly">STAY CONNECTED!</a>
   </footer>
 </section>
 

@@ -5,26 +5,26 @@
     <div v-for="post in posts">
       <h2>{{ post.text }}</h2>
       <hr>
-
+    </div>
       <!-- Feature 1 -->
 <article id="first" class="container box style1 right">
-  <a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
+  <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/en/f/f8/Come_Home_With_MeCam.jpg" alt="" /></a>
   <div class="inner">
     <header>
       <h2>On This Day In Music:<br /></h2>
     </header>
-    <p>A daily music history fact will go here.</p>
+    <p>Rap artist Cam'ron released his 3rd solo album 'Come Home With Me' on May 12, 2002.</p>
   </div>
 </article>
 
 <!-- Feature 2 -->
 <article class="container box style1 left">
-  <a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+  <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Hamilton-poster.jpg/220px-Hamilton-poster.jpg" alt="" /></a>
   <div class="inner">
     <header>
       <h2>What's new in theatre:<br /></h2>
     </header>
-    <p>Latest theatre releated news will go here.</p>
+    <p>Hamilton: The Musical to resume performances as early as August in many cities across the US.</p>
   </div>
 </article>
 
@@ -178,7 +178,7 @@
 </article>
 -->
 
-    </div>
+    
   </div>
 </template>
 
@@ -201,3 +201,6 @@ export default {
   methods: {}
 };
 </script>
+
+
+

@@ -9,6 +9,9 @@
         <div class="form-group">
           <label>Type here:</label> 
           <input type="text" class="form-control" v-model="type_here">
+          
+          <!-- <img v-bind:src="photo.url" v-bind:alt="photo.name" /> -->
+
         </div>
         <input type="submit" class="btn btn-primary" value="Post">
       </form>
@@ -30,6 +33,7 @@ export default {
     submit: function() {
       var params = {
         text: this.type_here,
+        image_url: this.type_here
       };
       axios
         .post("/api/posts", params)
