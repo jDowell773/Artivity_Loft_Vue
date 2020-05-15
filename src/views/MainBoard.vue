@@ -28,6 +28,28 @@
   </div>
 </article>
 
+<!-- Portfolio -->
+<article class="container box style2">
+  <header>
+    <h2>See what's new aournd you!</h2>
+    <p>See what's new in the world of creative arts<br />
+    Find out about upcoming events near you</p>
+  </header>
+  <div class="inner gallery">
+    <div class="row gtr-0">
+      <div class="col-3 col-12-mobile"><a href="https://html5up.net/uploads/demos/overflow/images/thumbs/01.jpg" class="image fit"><img src="https://html5up.net/uploads/demos/overflow/images/thumbs/01.jpg" alt="" title="Ad infinitum" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://i.ytimg.com/vi/7qGAj1riWsc/maxresdefault.jpg" class="image fit"><img src="https://i.ytimg.com/vi/7qGAj1riWsc/maxresdefault.jpg" alt="" title="Dressed in Clarity" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://www.pinclipart.com/picdir/middle/168-1685551_bo-burnham-laugh-now-cry-later-masks.png" class="image fit"><img src="https://www.pinclipart.com/picdir/middle/168-1685551_bo-burnham-laugh-now-cry-later-masks.png" alt="" title="Raven" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://html5up.net/uploads/demos/overflow/images/thumbs/04.jpg" class="image fit"><img src="https://html5up.net/uploads/demos/overflow/images/thumbs/04.jpg" alt="" title="I'll have a cup of Disneyland, please" /></a></div>
+    </div>
+    <div class="row gtr-0">
+      <div class="col-3 col-12-mobile"><a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" alt="" title="Cherish" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" alt="" title="Different." /></a></div>
+      <div class="col-3 col-12-mobile"><a href="images/fulls/07.jpg" class="image fit"><img src="images/thumbs/07.jpg" alt="" title="History was made here" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="images/fulls/08.jpg" class="image fit"><img src="images/thumbs/08.jpg" alt="" title="People come and go and walk away" /></a></div>
+    </div>
+  </div>
+</article>
 
 <!-- Generic -->
 <!--

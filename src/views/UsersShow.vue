@@ -1,13 +1,17 @@
 <template>
   <div class="home">
-    <h1>All Posts</h1>
+    <h1>My Posts</h1>
     <hr>
     <hr>
     <hr>
     <div v-for="post in posts">
       <h2>{{ post.text }}</h2>
+      <!-- <h2>{{ post.image_url }}</h2> -->
+      <img v-bind:src="post.image_url" v-bind:alt="post.image_url" /> 
+      <hr>
       <!-- <button v-on:click="newPost(post)  ">New Post</button> -->
-      <button v-on:click="deletePost(post)  ">Delete Post</button>
+      <h6><button v-on:click="deletePost(post)  ">Delete Post</button></h6>
+      <hr>
       <hr>
     </div>
   </div>
