@@ -32,6 +32,9 @@
       <li class="nav-item">
         <a class="nav-link" href="/new_post">New Post</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/users/14">My Profile</a>
+      </li>
       <!-- <li class="nav-item">
         <a class="nav-link disabled" href="/new_post" tabindex="-1" aria-disabled="true">New Post</a>
       </li> -->
@@ -63,7 +66,7 @@
   <header>
     <h2>Artivity Loft</h2>
   </header>
-  <p>Your daily source of music, theatre, & creative arts news. Artivity Loft is a great way to stay connected with other artists & learn about upcoming events. Created by Jonathan Dowell</p>
+  <p>Your daily source of music, theatre, & creative arts news. Artivity Loft is a great way to stay connected with other artists & learn about upcoming events. Created by Jonathan Dowell.</p>
   <footer>
     <a href="#header" class="button style2 scrolly">STAY CONNECTED!</a>
   </footer>
