@@ -42,7 +42,7 @@ export default {
       axios
         .post("/api/posts", params)
         .then(response => {
-          this.$router.push("/main_board");
+          this.$router.push("/users/current");
         })
         .catch(error => {
           this.errors = error.response.data.errors;

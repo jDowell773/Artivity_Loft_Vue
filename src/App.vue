@@ -33,7 +33,7 @@
         <a class="nav-link" href="/new_post">New Post</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/users/14">My Profile</a>
+        <a class="nav-link" href="/users/current">My Profile</a>
       </li>
       <!-- <li class="nav-item">
         <a class="nav-link disabled" href="/new_post" tabindex="-1" aria-disabled="true">New Post</a>
@@ -56,6 +56,9 @@
     <a href="#banner" class="button style2 scrolly-middle">Your daily source of creative arts related news!</a>
   </footer>
 </section>
+
+<!-- <p v-if="isLoggedIn()">I am Logged in</p>
+<p v-else-if="!isLoggedIn()">I am NOT Logged in</p> -->
 
 
 <router-view/>
@@ -114,3 +117,18 @@
   color: #42b983;
 }
 </style>
+
+<script>
+// export default {
+//   methods: {
+//     isLoggedIn: function() {
+//       console.log(' i am checking if i\'m logged in')
+//       if (localStorage.getItem("jwt")) {
+//         return true 
+//       } else {
+//         this.$router.push("/home")
+//       }
+//     }
+//   }
+// }
+</script>
