@@ -33,6 +33,12 @@ export default {
       errors: []
     };
   },
+  created: function() {
+    if (!this.$parent.isLoggedIn()) {
+      this.$router.push("/login")
+    }
+    
+  },
   methods: {
     submit: function() {
       var params = {
@@ -51,3 +57,4 @@ export default {
   }
 };
 </script>
+

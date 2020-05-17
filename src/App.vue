@@ -23,10 +23,12 @@
           Authentication
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/login">Login</a> |
-          <a class="dropdown-item" href="/logout">Logout</a>
+           <a v-if="!isLoggedIn()" class="dropdown-item" href="/login">Login</a> |
+
+           <a v-if="isLoggedIn()" class="dropdown-item" href="/logout">Logout</a>
+
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="/signup">Sign Up</a>
+          <!-- <a v-if="!isLoggedIn()" class="dropdown-item" href="/signup">Sign Up</a> -->
         </div>
       </li>
       <li class="nav-item">
@@ -57,8 +59,8 @@
   </footer>
 </section>
 
-<!-- <p v-if="isLoggedIn()">I am Logged in</p>
-<p v-else-if="!isLoggedIn()">I am NOT Logged in</p> -->
+<p v-if="isLoggedIn()">Currently Logged In</p>
+<p v-else-if="!isLoggedIn()">I am NOT Logged In</p>
 
 
 <router-view/>
@@ -119,16 +121,16 @@
 </style>
 
 <script>
-// export default {
-//   methods: {
-//     isLoggedIn: function() {
-//       console.log(' i am checking if i\'m logged in')
-//       if (localStorage.getItem("jwt")) {
-//         return true 
-//       } else {
-//         this.$router.push("/home")
-//       }
-//     }
-//   }
-// }
+export default {
+  methods: {
+    isLoggedIn: function() {
+      console.log(' i am checking if i\'m logged in')
+      if (localStorage.getItem("jwt")) {
+        return true 
+      } else {
+        return false
+      }
+    }
+  }
+}
 </script>

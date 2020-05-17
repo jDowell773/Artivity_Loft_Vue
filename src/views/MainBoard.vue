@@ -260,6 +260,9 @@ export default {
     };
   },
   created: function() {
+    if (!this.$parent.isLoggedIn()) {
+      this.$router.push("/login")
+    }
     axios.get("/api/users/12").then(response => {
       console.log(response.data)
       this.posts = response.data.posts;
