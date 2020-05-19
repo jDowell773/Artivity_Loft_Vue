@@ -83,7 +83,8 @@
   <header>
     <h2>Artivity Loft</h2>
   </header>
-  <p>Your daily source of music, theatre, & creative arts news. Artivity Loft is a great way to stay connected with other artists & learn about upcoming events. Created by Jonathan Dowell.</p>
+  <p>Your daily source of music, theatre, & creative arts news. Artivity Loft is a great way to stay connected with other artists & learn about upcoming events.</p>
+  <!-- <p>Created by Jonathan Dowell</p> -->
   <footer>
     <a href="#header" class="button style2 scrolly">STAY CONNECTED!</a>
   </footer>
@@ -97,12 +98,12 @@
   <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
   <li><a href="#" class="icon brands fa-google-plus-g"><span class="label">Google+</span></a></li>
   <li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
-  <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-  <li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+  <!-- <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li> -->
+  <li><a href="https://www.linkedin.com/in/jonathan-dowell773/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 </ul>
 <div class="copyright">
   <ul class="menu">
-    <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+    <li>&copy; Untitled. All rights reserved.</li><li>Created by: <a href="https://www.linkedin.com/in/jonathan-dowell773/">Jonathan Dowell</a></li>
   </ul>
 </div>
 </section>
