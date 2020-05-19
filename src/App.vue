@@ -55,7 +55,19 @@
     <p>Welcome to Artivity Loft!</p>
   </header>
   <footer>
-    <a href="#banner" class="button style2 scrolly-middle">Your daily source of creative arts related news!</a>
+    <a href="#banner" class="button style2 scrolly-middle">Your daily source of creative arts news!</a>
+  </footer>
+</section>
+
+<!-- Banner -->
+<section id="banner">
+  <header>
+    <h2>Artivity Loft</h2>
+  </header>
+  <p>Write something clever here.</p>
+  <p>Seriously.</p>
+  <footer>
+    <a href="#footer" class="button style2 scrolly">STAY CONNECTED!</a>
   </footer>
 </section>
 
@@ -103,7 +115,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: rgb(54, 165, 202);
 }
 
 #nav {
