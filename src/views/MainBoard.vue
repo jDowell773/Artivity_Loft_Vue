@@ -9,18 +9,18 @@
 
       <!-- Feature 1 -->
 <article id="first" class="container box style1 right">
-  <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/en/f/f8/Come_Home_With_MeCam.jpg" alt="" /></a>
+  <a href="#" class="image fit"><img src="https://media-exp1.licdn.com/dms/image/C4E12AQFR6wwl-zcO1Q/article-inline_image-shrink_1000_1488/0?e=1594857600&v=beta&t=pOW8h4v7uzIBLtXwR24j-rCaEG_UM9VSvc4aD-NEXls" alt="" /></a>
   <div class="inner">
     <header>
       <h2>On This Day In Music:<br /></h2>
     </header>
-    <p>Rap artist Cam'ron released his 3rd solo album 'Come Home With Me' on May 14, 2002.</p>
+    <p>Frank Sinatra's funeral was held at the Church of the Good Shepherd in Beverly Hills.</p>
   </div>
 </article>
 
 <!-- Feature 2 -->
 <article class="container box style1 left">
-  <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Hamilton-poster.jpg/220px-Hamilton-poster.jpg" alt="" /></a>
+  <a href="#" class="image fit"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/05/hamiltonTOP-800x533.jpg" alt="" /></a>
   <div class="inner">
     <header>
       <h2>What's new in theatre:<br /></h2>
@@ -31,7 +31,7 @@
 
 <!-- Feature 1 -->
 <article id="first" class="container box style1 right">
-  <a href="#" class="image fit"><img src="https://i.ytimg.com/vi/gHG6GnKb-3g/hqdefault.jpg" alt="" /></a>
+  <a href="#" class="image fit"><img src="https://djbooth.net/.image/t_share/MTcyNTQ3OTY4NzQ5MDg2NjM0/future-high-off-life-album-review-2020-header.jpg" alt="" /></a>
   <div class="inner">
     <header>
       <h2>New Music Alert:<br /></h2>
@@ -42,7 +42,7 @@
 
 <!-- Feature 2 -->
 <article class="container box style1 left">
-  <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Hamilton-poster.jpg/220px-Hamilton-poster.jpg" alt="" /></a>
+  <a href="#" class="image fit"><img src="https://i0.wp.com/www.abandonedfl.com/wp-content/uploads/2018/03/DSC_0467.jpg?resize=800%2C530&ssl=1" alt="" /></a>
   <div class="inner">
     <header>
       <h2>Movie Theatre Industry Hit Hard:<br /></h2>
@@ -84,14 +84,14 @@
     <div class="row gtr-0">
       <div class="col-3 col-12-mobile"><a href="https://html5up.net/uploads/demos/overflow/images/thumbs/01.jpg" class="image fit"><img src="https://html5up.net/uploads/demos/overflow/images/thumbs/01.jpg" alt="" title="Ad infinitum" /></a></div>
       <div class="col-3 col-12-mobile"><a href="https://i.ytimg.com/vi/7qGAj1riWsc/maxresdefault.jpg" class="image fit"><img src="https://i.ytimg.com/vi/7qGAj1riWsc/maxresdefault.jpg" alt="" title="Dressed in Clarity" /></a></div>
-      <div class="col-3 col-12-mobile"><a href="https://www.pinclipart.com/picdir/middle/168-1685551_bo-burnham-laugh-now-cry-later-masks.png" class="image fit"><img src="https://www.pinclipart.com/picdir/middle/168-1685551_bo-burnham-laugh-now-cry-later-masks.png" alt="" title="Raven" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://www.pinclipart.com/picdir/middle/168-1685551_bo-burnham-laugh-now-cry-later-masks.png" class="image fit"><img src="https://www.pinclipart.com/picdir/middle/168-1685551_bo-burnham-laugh-now-cry-later-masks.png" alt="" title="Laugh Now, Cry Later" /></a></div>
       <div class="col-3 col-12-mobile"><a href="https://html5up.net/uploads/demos/overflow/images/thumbs/04.jpg" class="image fit"><img src="https://html5up.net/uploads/demos/overflow/images/thumbs/04.jpg" alt="" title="I'll have a cup of Disneyland, please" /></a></div>
     </div>
     <div class="row gtr-0">
-      <div class="col-3 col-12-mobile"><a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" alt="" title="Cherish" /></a></div>
-      <div class="col-3 col-12-mobile"><a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" alt="" title="Different." /></a></div>
-      <div class="col-3 col-12-mobile"><a href="images/fulls/07.jpg" class="image fit"><img src="images/thumbs/07.jpg" alt="" title="History was made here" /></a></div>
-      <div class="col-3 col-12-mobile"><a href="images/fulls/08.jpg" class="image fit"><img src="images/thumbs/08.jpg" alt="" title="People come and go and walk away" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://www.techjockey.com/blog/wp-content/uploads/2019/12/feature.png" class="image fit"><img src="https://www.techjockey.com/blog/wp-content/uploads/2019/12/feature.png" alt="" title="Cherish" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://musiccanada.files.wordpress.com/2015/09/new-releases-banner.jpg" class="image fit"><img src="https://musiccanada.files.wordpress.com/2015/09/new-releases-banner.jpg" alt="" title="Different." /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://images.squarespace-cdn.com/content/v1/55ca787ae4b07d9498906d9e/1551490529737-C7C2LZQ8MSFLT8L632H4/ke17ZwdGBToddI8pDm48kPHgPSpJs3pqpkUZU93_mvpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInndiFr6ALsCf3uCDBRk4eJzsF3rQ925VZ6DZqxvBZkQKMshLAGzx4R3EDFOm1kBS/coming-soon-neon-sign-coming-soon-badge-in-vector-21133321.jpg" class="image fit"><img src="https://images.squarespace-cdn.com/content/v1/55ca787ae4b07d9498906d9e/1551490529737-C7C2LZQ8MSFLT8L632H4/ke17ZwdGBToddI8pDm48kPHgPSpJs3pqpkUZU93_mvpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInndiFr6ALsCf3uCDBRk4eJzsF3rQ925VZ6DZqxvBZkQKMshLAGzx4R3EDFOm1kBS/coming-soon-neon-sign-coming-soon-badge-in-vector-21133321.jpg" alt="" title="History was made here" /></a></div>
+      <div class="col-3 col-12-mobile"><a href="https://i.etsystatic.com/5614762/r/il/706d21/1076666805/il_570xN.1076666805_gh3r.jpg" class="image fit"><img src="https://i.etsystatic.com/5614762/r/il/706d21/1076666805/il_570xN.1076666805_gh3r.jpg" alt="" title="People come and go and walk away" /></a></div>
     </div>
   </div>
 </article>
