@@ -64,8 +64,8 @@
   <header>
     <h2>Artivity Loft</h2>
   </header>
-  <p>Write something clever here.</p>
-  <p>Seriously.</p>
+  <p>Created to keep artists connected through music, theatre, performing arts & creative arts.</p>
+  
   <footer>
     <a href="#footer" class="button style2 scrolly">STAY CONNECTED!</a>
   </footer>
