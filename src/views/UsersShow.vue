@@ -14,6 +14,9 @@
       <hr>
       <hr>
     </div>
+    <!-- <div v-for="user in filteredUsers" class="single-user">
+      <h2>{{ user.name }}</h2>
+    </div> -->
   </div>
 </template>
 
@@ -24,7 +27,8 @@ import axios from "axios";
 export default {
   data: function() {
     return {
-      posts: []
+      posts: [],
+      // search: ''
     };
   },
   created: function() {
@@ -45,7 +49,14 @@ export default {
         this.posts.splice(index, 1)
       })
     },
-  }
+  },
+  // computed: {
+  //   filteredUsers: function(){
+  //     return this.users.filter((user) => {
+  //       return user.name.match(this.search)
+  //     })
+  //   }
+  // }
 };
 </script>
 
