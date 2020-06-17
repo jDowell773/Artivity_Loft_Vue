@@ -94,12 +94,11 @@
 
 <section id="footer">
 <ul class="icons">
-  <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-  <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+  <!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li> -->
+  <!-- <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li> -->
   <li><a href="#" class="icon brands fa-google-plus-g"><span class="label">Google+</span></a></li>
-  <li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
-  <li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-
+  <!-- <li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li> -->
+  <li><a href="https://github.com/jDowell773" class="icon brands fa-github"><span class="label">Github</span></a></li>
   <!-- <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li> -->
   <li><a href="https://www.linkedin.com/in/jonathan-dowell773/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 </ul>
