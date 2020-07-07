@@ -104,7 +104,7 @@
 </ul>
 <div class="copyright">
   <ul class="menu">
-    <li>&copy; Untitled. All rights reserved.</li><li>Created by: <a href="https://www.linkedin.com/in/jonathan-dowell773/">Jonathan Dowell</a></li>
+    <li>&copy; Untitled. All rights reserved.</li><li>Created by: Jonathan Dowell</a></li>
   </ul>
 </div>
 </section>
